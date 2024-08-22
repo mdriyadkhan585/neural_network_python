@@ -1,6 +1,6 @@
 # neural_network_in_python
 ---
-Neural Networks: [in C Script](/)
+Neural Networks: [in C Script](https://github.com/mdriyadkhan585/neural_network)
 ---
 ### Documentation for Neural Network Project
 
