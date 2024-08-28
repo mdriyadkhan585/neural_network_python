@@ -12,10 +12,9 @@ This documentation provides a comprehensive guide for using two Python scripts: 
 
 ### Download Commands
 
-If the URL of your repository is `https://github.com/username/repository.git`, you would use:
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/mdriyadkhan585/neural_network_python
 ```
 ---
 
@@ -33,7 +32,7 @@ numpy
 After cloning the repository, navigate into the project directory and install the dependencies listed in `requirements.txt`:
 
 ```bash
-cd repository
+cd neural_network_python
 pip install -r requirements.txt
 ```
 
